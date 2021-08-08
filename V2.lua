@@ -14,5 +14,5 @@ return(function(l,...)local C="This file was obfuscated using KFC Obfuscator 4.0
 - Remove AntiFe because outdated.
 - Remove Labels like hp, stam, groups, shop...
 - Add more keys on trashtalk like: z, x, c, v, b.
-- Fix FPS always dropping.
+- Fixed FPS always dropping.
 --]]
