@@ -10,7 +10,8 @@ return(function(l,...)local C="This file was obfuscated using KFC Obfuscator 4.0
        \_____       \______/   \__  \_______/
 
 ====== 8/8/2021 ======
-- Script is complete go to V2
+- Script is complete go to V2.
+- Remove AntiFe because outdated.
 - Remove Labels like hp, stam, groups, shop...
 - Add more keys on trashtalk like: z, x, c, v, b.
 - Fix FPS always dropping.
