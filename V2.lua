@@ -8,7 +8,6 @@ local ol=(function(n,l)return(n~=l);end)local X=(function(n,l)return(n^l);end)lo
      \ $$\ $$ /  | $$  | $$ | $$ | $$  | $$|
       \ $$$$ /   |  $$$$$$/ | $$ |  $$$$$$$|
        \ ___/     \______/   \__  \_______/
-
 ====== 8/8/2021 ======
 - Script is complete go to V2
 - Remove Labels like hp, stam, groups, shop...
