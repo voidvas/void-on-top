@@ -15,4 +15,5 @@ return(function(l,...)local C="This file was obfuscated using KFC Obfuscator 4.0
 - Remove Labels like hp, stam, groups, shop...
 - Add more keys on trashtalk like: z, x, c, v, b.
 - Fixed FPS always dropping.
+- Changed G to Y key (GodMode)
 --]]
