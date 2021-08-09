@@ -3,7 +3,7 @@ return(function(l,...)local C="This file was obfuscated using KFC Obfuscator 4.0
 --[[
 
   __
- \  $$         / $$            __         /$$|
+ \  $$         / $$                       /$$|
   \  $$       / $$   /$$$$$$  | $$       | $$|
    \  $$     / $$   /$$__  $$ | $$    /$$$$$$|
     \  $$   / $$   | $$  \ $$ | $$  /$$__  $$|
